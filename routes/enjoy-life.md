@@ -2,4 +2,4 @@
 
 You are now living your life peacefully
 
-[Restart](../alarm.md)
+[Choose another life](../alarm.md)
