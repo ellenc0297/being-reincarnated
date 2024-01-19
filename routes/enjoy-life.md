@@ -2,4 +2,4 @@
 
 You are now living your life peacefully
 
-[Choose another life](../alarm.md)
+[Choose Another Life!](../alarm.md)
