@@ -2,6 +2,6 @@
 
 Your Alarm wakes you up. What do you do?
 
-[Wake up and get ready for work](routes/wake-up.md)
+[Wake up and get Ready for Work](routes/wake-up.md)
 
-[Ignore the alarm and go back to sleep](routes/dont-wake-up.md)
+[Ignore the Alarm and go back to Sleep](routes/dont-wake-up.md)
