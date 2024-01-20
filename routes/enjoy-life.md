@@ -1,5 +1,5 @@
 # Enjoy your life!
 
-You are now living your life peacefully
+You live your life peacefully and d
 
 [Choose Another Life!](../alarm.md)
