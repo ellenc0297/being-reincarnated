@@ -7,5 +7,7 @@ It looks like there are stars around you and you guess that you are in space. Th
 ### Door 3 will let you pass on and stay dead
 
 [Choose Door 1](fantasy-world.md)
+
 [Choose Door 2](return-to-younger-self.md)
+
 [Choose Door 3](dont-reincarnate.md)
