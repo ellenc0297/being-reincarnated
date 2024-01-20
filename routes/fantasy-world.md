@@ -1,4 +1,4 @@
-# You walked through the fantasy door
+# You walked through the Fantasy Door!
 
 You expected to be reincarnated in a fantasy world, but it looks like you are still in the same place. You started to think that you will be trapped here when two more doors appeared in front of you.
 

@@ -1,4 +1,4 @@
-# You wake up in a strange place
+# You wake up in a Strange Place...
 
 It looks like there are stars around you and you guess that you are in space. Then multiple doors appeared in front of you with writing on top of them.
 
