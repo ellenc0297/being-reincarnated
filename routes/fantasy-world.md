@@ -6,4 +6,5 @@ You expected to be reincarnated in a fantasy world, but it looks like you are st
 ### Door 2 will reincarnate you to a world that is in a period of peace.
 
 [Choose Door 1]()
+
 [Choose Door 2]()
