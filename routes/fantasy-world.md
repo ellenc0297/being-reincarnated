@@ -5,6 +5,6 @@ You expected to be reincarnated in a fantasy world, but it looks like you are st
 ### Door 1 will reincarnate you into a world filled with chaos and war
 ### Door 2 will reincarnate you to a world that is in a period of peace.
 
-[Choose Door 1]()
+[Choose Door 1](war.md)
 
-[Choose Door 2]()
+[Choose Door 2](peace.md)
