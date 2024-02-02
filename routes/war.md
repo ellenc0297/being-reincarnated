@@ -4,6 +4,5 @@ You opened your eyes and woke up in a bright room. You see a person looking at y
 
 
 [Sure](agree.md)
-[No](shot.md)
 
-[Choose another life](../alarm.md)
+[No](shot.md)
